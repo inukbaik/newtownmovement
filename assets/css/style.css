@@ -497,6 +497,11 @@ section .container {
   color: #fff;
 }
 
+.skills .progress .skill i {
+  color: #18d26e;
+  line-height: 0;
+}
+
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
@@ -940,6 +945,15 @@ section .container {
 .portfolio-details .container {
   padding-top: 20px;
   padding-bottom: 40px;
+  object-fit: contain;
+}
+
+.portfolio-details .container img {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  object-fit: contain;
+  max-width: 100%;
+  heigh: auto
 }
 
 .portfolio-details .portfolio-title {
