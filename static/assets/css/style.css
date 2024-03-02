@@ -1078,12 +1078,12 @@ section .container {
 .contact .php-email-form input,
 .contact .php-email-form textarea {
   border-radius: 0;
-  box-shadow: none;
+  box-shadow: 3px 1px 1px #ECEDF8;
   font-size: 14px;
-  background: rgba(255, 255, 255, 0.08);
-  border: 0;
+  background: rgba(236, 237, 248, 0.9);
+  border: ridge;
   transition: 0.3s;
-  color: #fff;
+  color: #002364;
 }
 
 .contact .php-email-form input:focus,
@@ -1099,7 +1099,7 @@ section .container {
 
 .contact .php-email-form input::placeholder,
 .contact .php-email-form textarea::placeholder {
-  color: rgba(255, 255, 255, 0.3);
+  color: #002364;
   opacity: 1;
 }
 
