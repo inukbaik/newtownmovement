@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from flask_mail import Mail, Message
+from flask_mail import Mail
 import smtplib
 
 app = Flask(__name__)
@@ -7,7 +7,7 @@ mail = Mail(app)
 
 # Configuration of the email server
 my_email = 'xxxi30cw@gmail.com'
-my_password = 'xrhmggiljizxqilc'
+my_password = 'YOUR PASSWRD GOES HERE'
 
 @app.route('/')
 @app.route('/index.html')
