@@ -1,13 +1,14 @@
 from flask import Flask, render_template, request
 from flask_mail import Mail
 import smtplib
+import os
 
 app = Flask(__name__)
 mail = Mail(app)
 
 # Configuration of the email server
-my_email = 'xxxi30cw@gmail.com'
-my_password = 'YOUR PASSWRD GOES HERE'
+my_email = os.environ.get('GMAIL_EMAIL')
+my_password = os.environ.get('GMAIL_PASSWORD')
 
 @app.route('/')
 @app.route('/index.html')
@@ -51,4 +52,4 @@ def send_email():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)
