@@ -11,7 +11,7 @@ Welcome to Newtown-Movement, Youngbin Kim ([@newtownmovement](https://www.instag
 
 ## Description
 
-Newtown-Movement is a modern and interactive web platform designed to showcase skills, projects, and testimonials. Utilizing HTML, CSS, and JavaScript, this project offers a dynamic user experience, featuring smooth scrolling navigation, mobile responsiveness, animated skill progress bars, a testimonials slider, and a portfolio section with filtering and lightbox functionality. Newtown-Movement serves as a portfolio and archive for Youngbin Kim's works, providing a visually appealing showcase of his talents and accomplishments.
+Newtown-Movement is a modern and interactive web platform designed to showcase skills, and projects. Utilizing HTML, CSS, and JavaScript, this project offers a dynamic user experience, featuring smooth scrolling navigation, mobile responsiveness, and a portfolio section with filtering functionality. Newtown-Movement serves as a portfolio and archive for Youngbin Kim's works, providing a visually appealing showcase of his talents and accomplishments.
 
 ## Features
 
