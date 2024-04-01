@@ -1,6 +1,6 @@
 # Newtown-Movement
 
-Welcome to Newtown-Movement, Youngbin Kim ([@newtownmovement](https://www.instagram.com/newtownmovement/))'s portfolio and archive for his works. This project showcases Youngbin Kim's skills, projects, and testimonials in a modern and interactive web format.
+Welcome to Newtown-Movement, Youngbin Kim ([@newtownmovement](https://www.instagram.com/newtownmovement/))'s portfolio and archive for his works. This project showcases Youngbin Kim's skills, and projects in a modern and interactive web format.
 
 ## Table of Contents
 - [Description](#description)
